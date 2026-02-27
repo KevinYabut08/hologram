@@ -1,0 +1,51 @@
+# Rubik's Cube Material File
+# Created for hologram project
+
+# White face
+newmtl blinn2SG
+Ka 0.9 0.9 0.9
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 50.0
+
+# Yellow face
+newmtl blinn4SG
+Ka 0.9 0.9 0.0
+Kd 1.0 1.0 0.0
+Ks 0.5 0.5 0.0
+Ns 50.0
+
+# Black/Dark edges
+newmtl blinn5SG
+Ka 0.05 0.05 0.05
+Kd 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 50.0
+
+# Red face
+newmtl blinn6SG
+Ka 0.8 0.0 0.0
+Kd 1.0 0.0 0.0
+Ks 0.5 0.0 0.0
+Ns 50.0
+
+# Orange face
+newmtl blinn7SG
+Ka 0.9 0.5 0.0
+Kd 1.0 0.6 0.0
+Ks 0.5 0.3 0.0
+Ns 50.0
+
+# Blue face
+newmtl blinn9SG
+Ka 0.0 0.0 0.8
+Kd 0.0 0.0 1.0
+Ks 0.0 0.0 0.5
+Ns 50.0
+
+# Green face
+newmtl blinn11SG
+Ka 0.0 0.7 0.0
+Kd 0.0 1.0 0.0
+Ks 0.0 0.5 0.0
+Ns 50.0
